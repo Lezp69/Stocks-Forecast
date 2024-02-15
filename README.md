@@ -42,3 +42,6 @@ streamlit run app.py
 ```
 4. Select the stocks you want to visualize and predict, along with the date range.
 5. Click the "Make Changes" button to update the visualization and prediction based on your selections.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
