@@ -5,7 +5,7 @@
 We take security seriously. We welcome any responsible disclosures of vulnerabilities that you may discover. To report a security vulnerability, please follow these steps:
 
 1. **Private Disclosure**: Do not publicly disclose the issue until we've had a chance to address it.
-2. **Contact Us**: Send an email to [security@example.com](mailto:security@example.com) with details about the vulnerability.
+2. **Contact Us**: Send an email to [zerpaluis2000@gmail.com](mailto:zerpaluis2000@gmail.com) with details about the vulnerability.
 3. **Provide Details**: Please include information about the vulnerability, including steps to reproduce it and any potential impact.
 4. **Response Time**: We will acknowledge your report within 48 hours and will strive to provide a timeline for resolution as soon as possible.
 
